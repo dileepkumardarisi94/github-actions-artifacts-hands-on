@@ -31,4 +31,4 @@ jobs:
         run: ls -R
       
       - name: Display content of the text file
-        run: cat ./hello-artifact/hello.txt
+        run: cat hello.txt
